@@ -1,5 +1,6 @@
-import 
-
-public static void Main(String[] args) {
-
+public class Pos {
+    public static void main(String[] args) {
+        Check.checkProcess();
+    }
 }
+
